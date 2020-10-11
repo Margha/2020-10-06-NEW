@@ -431,4 +431,4 @@ during the workshop.
 {% include dc/setup.html %}
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
-{% endif %}
+{% endif %} 
